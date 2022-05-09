@@ -1,0 +1,15 @@
+Package: cuinetwork
+Title: Shiny App for CUI Network
+Version: 0.0.0.9000
+Authors@R: person('AUTHOR_FIRST', 'AUTHOR_LAST', email = 'AUTHOR@MAIL.COM', role = c('cre', 'aut'))
+Description: The shiny app for CUI network.
+License: GPL (>= 3)
+Imports: 
+    config (>= 0.3.1),
+    golem (>= 0.3.1),
+    shiny (>= 1.6.0)
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.1
+URL: https://github.com/chenh2017/cuinetwork.git
+BugReports: https://github.com/chenh2017/cuinetwork.git/issues
